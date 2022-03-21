@@ -4,8 +4,8 @@
   "description": "Countdown for the famed Shagaluf holiday.",
   "main": "app.js",
   "scripts": {
-    "test": "./app.js",
-    "start": "node app.js"
+    "test": "sudo ./app.js",
+    "start": "sudo ./app.js"
   },
   "repository": {
     "type": "git",
