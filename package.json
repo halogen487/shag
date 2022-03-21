@@ -1,0 +1,22 @@
+{
+  "name": "shag",
+  "version": "1.0.0",
+  "description": "Countdown for the famed Shagaluf holiday.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halogen487/shag.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halogen487/shag/issues"
+  },
+  "homepage": "https://github.com/halogen487/shag#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
